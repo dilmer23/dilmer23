@@ -64,25 +64,25 @@ Agrega aquí tus repos favoritos usando el widget de "pinned repos".
 Ejemplo con github-readme-stats:
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilmer23&repo=NOMBRE_DEL_REPO&theme=default&hide_border=true" alt="Repo destacado"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilmer23&repo=aquaIndex_lading&theme=default&hide_border=true" alt="Repo destacado"/>
 </p>
 
-> 💡 Reemplaza `NOMBRE_DEL_REPO` con el nombre real de tu repositorio para mostrarlo aquí. Puedes agregar varias tarjetas, una por cada proyecto que quieras destacar.
+
 
 ---
 
 ### 📫 Contáctame
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/dilmer-ramirez23" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu_correo@ejemplo.com">
+  <a href="mailto:dilmertiguas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-> ✏️ Reemplaza los enlaces de LinkedIn y correo con los tuyos reales.
+
 
 ---
 
